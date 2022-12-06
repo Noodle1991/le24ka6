@@ -6,11 +6,11 @@ int main() {
                             "e", "F", "f", "G", "g", "H", "h", "X", "x", "Y", "y", "Z", "z"};*/
     std::string stroka = {"1234567890AaBbCcDdEeFfGgHhXxYyZz"};
     /*int i, g, f, l, k;*/
-    for (int i = 0; i < 32; i++) {
-        for (int g = 0; g < 32; g++) {
-            for (int f = 0; f < 32; f++) {
-                for (int l = 0; l < 32; l++) {
-                    for (int k = 0; k < 32; k++) {
+    for (int i = 0; i < stroka.length(); i++) {
+        for (int g = 0; g < stroka.length(); g++) {
+            for (int f = 0; f < stroka.length(); f++) {
+                for (int l = 0; l < stroka.length(); l++) {
+                    for (int k = 0; k < stroka.length(); k++) {
                         std::cout << stroka[i] << stroka[g] << stroka[f] << stroka[l] << stroka[k] << std::endl;
                     }
                 }
