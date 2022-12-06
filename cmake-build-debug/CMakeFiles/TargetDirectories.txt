@@ -1,3 +1,0 @@
-/Users/stanislav/Documents/Учеба/ершов/le24ka6/cmake-build-debug/CMakeFiles/le24ka6.dir
-/Users/stanislav/Documents/Учеба/ершов/le24ka6/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/stanislav/Documents/Учеба/ершов/le24ka6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
